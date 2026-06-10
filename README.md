@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [School Management Platform](https://github.com/thewalkersingh/skooly-server)
 
-- 🌱 I’m currently learning **DSA, AWS**
+- 🌱 I’m currently learning **React, AWS**
 
 <!-- - 👨‍💻 All of my projects are available at   -->
 
